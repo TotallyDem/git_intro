@@ -1,1 +1,2 @@
-"Alex Murray" 
+Alex Murray
+murraya4@oregonstate.edu
